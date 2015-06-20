@@ -1,4 +1,3 @@
-
 IMAGE(  CASE(Rapport__c,  "1", 
 "/img/samples/stars_100.gif", "2", 
 "/img/samples/stars_200.gif", "3", 
