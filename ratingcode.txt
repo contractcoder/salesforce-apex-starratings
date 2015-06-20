@@ -1,0 +1,1 @@
+IMAGE(  CASE(Rapport__c,  "1", "/img/samples/stars_100.gif", "2", "/img/samples/stars_200.gif", "3", "/img/samples/stars_300.gif",  "4", "/img/samples/stars_400.gif",  "5", "/img/samples/stars_500.gif",  "/img/samples/stars_000.gif"),  "rating")
